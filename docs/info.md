@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Enter the right combination of bits to display an "L" on the seven segment display.  The combination is 0b00101111.  Once that combination is entered
+you'll need to press the "Step" button in order to display the L on the display.  Releasing the Step button will clear the display.
 
 ## How to test
 
-Explain how to use your project
+Try different combinations of inputs.  The only time the output should be displayed is when the right bit combination is entered and the Step button is pressed.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Requires a 7 segment display, a push button connected to power, and a 8 bit wide DIP switch.
