@@ -4,7 +4,7 @@ project:
   title:        "L display"      # 
   author:       "Matt Lamparter"      # 
   discord:      ""      # none
-  description:  "Displays "L" character on a 7 seg display when 00101111 entered on the input (and pressing the Step button to enable display)"      # Displays "L" character on a 7 seg display when 00101111 entered on the input (and pressing the Step button to enable display)
+  description:  "Displays L character on a 7 seg display when 00101111 entered on the input (and pressing the Step button to enable display)"      # Displays "L" character on a 7 seg display when 00101111 entered on the input (and pressing the Step button to enable display)
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
